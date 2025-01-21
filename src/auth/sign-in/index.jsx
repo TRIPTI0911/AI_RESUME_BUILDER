@@ -8,7 +8,7 @@ function SignInPage() {
       justifyContent: 'center', // Horizontal center
       alignItems: 'center',     // Vertical center
       height: '100vh'            // Full viewport height
-    }} ><center><SignIn/></center></div>
+    }} ><SignIn/></div>
   )
 }
 
